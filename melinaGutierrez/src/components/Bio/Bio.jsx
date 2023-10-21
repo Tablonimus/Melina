@@ -16,7 +16,7 @@ export default function Bio() {
             <img
               src={meliVeni}
               alt=""
-              className=" absolute  drop-shadow-2xl object-cover w-44  left-5 md:left-[17em] md:w-[15em]"
+              className=" absolute  drop-shadow-2xl object-cover w-44  left-5 md:left-[17em] lg:left-[17em] md:w-[15em]"
             />
             <div className="flex flex-col items-center py-14 md:ml-36">
               <span>POSICIÓN</span>
